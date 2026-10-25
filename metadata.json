@@ -1,0 +1,6 @@
+{
+  "name": "مركز الأصيل لصيانة السيارات Asg group",
+  "description": "المركز المتخصص في صيانة وإصلاح سيارات تويوتا وجيلي، تقديم خدمات الأعطال الكهربائية والإطارات وتغيير الزيوت والسمكرة والدهان والصيانة الدورية مع قطع غيار أصلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
